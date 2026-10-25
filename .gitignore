@@ -1,4 +1,17 @@
-01_Optimize_Udemy*
+# Environment variables
 .env
 .env.local
+
+# Configuration files
+01_Optimize_Udemy*
+.DS_Store
+
+# Log files
+*.log
+*.log.*
+*.log.*.*
+*.log.*.*.*
+*.log.*.*.*.*
+*.log.*.*.*.*.*
+*.log.*.*.*.*.*.*
 
